@@ -43,6 +43,14 @@ Currently studying for **AWS Cloud Practitioner → Solutions Architect Associat
 As I progress, these repositories will evolve into **real AWS engineering projects** that demonstrate my skills to future employers.
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elijah-McIntosh&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-McIntosh&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
