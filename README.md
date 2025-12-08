@@ -46,8 +46,8 @@ As I progress, these repositories will evolve into **real AWS engineering projec
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elijah-McIntosh&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-McIntosh&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://raw.githubusercontent.com/Elijah-McIntosh/github-stats/master/generated/overview.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/Elijah-McIntosh/github-stats/master/generated/languages.svg" height="150" />
 </p>
 
 ---
