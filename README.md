@@ -47,8 +47,6 @@ As I progress, these repositories will evolve into **real AWS engineering projec
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elijah-McIntosh/github-stats/master/generated/overview.svg" height="150" />
-  <img src="https://raw.githubusercontent.com/Elijah-McIntosh/github-stats/master/generated/languages.svg" height="150" />
-</p>
 
 ---
 
